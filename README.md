@@ -1,0 +1,1 @@
+My 12th assignment! Regex seems like a lot at first, but once you understand the patterns I don't think it's that bad. I've seen it floating around a lot and used in answers before when searching the internet, and now that I understand it I feel more confident in employing those solutions. 
